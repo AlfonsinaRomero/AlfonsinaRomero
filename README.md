@@ -5,6 +5,7 @@ International Trade student from Mexico 🇲🇽, currently on an academic excha
 I'm interested in how goods, money and ideas move across borders — and in building practical tools that make that easier.
 
 **Focus:** International Trade · Trade Finance · Business Development · Sales
+
 **Languages:** Spanish · English · Mandarin
 
 ---
@@ -16,12 +17,9 @@ I'm interested in how goods, money and ideas move across borders — and in buil
 
 ### 💼 Experience
 
-- **TrepCamp — Ambassador** (Oct 2025 – present)
-  Building a local TrepHub that connects entrepreneurs, universities and strategic partners; organizing events, workshops and meetups.
-- **TrepCamp — Student Advisor** (Aug 2025 – present)
-  Guiding students and future entrepreneurs into international programs in Madrid and New York.
-- **TrepCamp Experience Program — Madrid, Spain** (Jun – Oct 2025)
-  Multicultural team project with social impact and market potential: agile methods, idea validation, market analysis and pitching to international experts.
+- **TrepCamp — Ambassador** (Oct 2025 – present)<br>Building a local TrepHub that connects entrepreneurs, universities and strategic partners; organizing events, workshops and meetups.
+- **TrepCamp — Student Advisor** (Aug 2025 – present)<br>Guiding students and future entrepreneurs into international programs in Madrid and New York.
+- **TrepCamp Experience Program — Madrid, Spain** (Jun – Oct 2025)<br>Multicultural team project with social impact and market potential: agile methods, idea validation, market analysis and pitching to international experts.
 
 ### 🏆 Highlights
 
